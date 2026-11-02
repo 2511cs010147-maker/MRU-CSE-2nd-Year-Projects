@@ -1,3 +1,4 @@
+
 # 🎓 Edulytix - Smart Education System with Risk Alert & Digital Library
 
 **Edulytix** is a full-stack college academic management and early-intervention system built with **React.js + Bootstrap**, **Java 17 + Spring Boot REST API**, and **MySQL**.
@@ -88,3 +89,7 @@ The application comes pre-seeded with sample data and 1-Click Demo Login cards o
 6. **Risk Alerts (`/risk-alerts`)**: Centralized alerts view with score comparison badges and resolve toggles.
 7. **Digital Library (`/library`)**: Searchable academic materials categorized by Book, Notes, PDF, and Study Material.
 8. **Profile (`/profile`)**: User information, assigned academic role badge, and sign-out.
+
+# MRU-CSE-2nd-Year-Projects
+Upload All Second Year Projects - Mini-projects, Python, Java, web development, DBMS and introductory AI/ML projects
+
